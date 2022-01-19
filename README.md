@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hej 👋
 
+I am Sebastian and I am a DevOps-Engineer living in Germany.
+[https://twitter.com.sebbel](https://twitter.com.sebbel)
 <!--
 **sebbel/sebbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
